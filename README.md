@@ -22,7 +22,7 @@
     - Go
     - Python
 
-### Contest
+### Awards
 
 ---
 
