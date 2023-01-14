@@ -1,4 +1,8 @@
 ## **Hello! I'm younghwan Kim**
+- Computer Engineering Student at Dankook University 
+- BoanLab Undergraduate Researcher 
+- Interested in BE, Cloud Computing
+
 
 ### Interested in
 
@@ -8,7 +12,7 @@
     - Spring Boot
     - Mysql
     
-- **Infra technologies**
+- **Infra Structure**
     - Docker
     - Kubernetes
     - AWS
