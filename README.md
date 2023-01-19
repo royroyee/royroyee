@@ -10,6 +10,7 @@
 
 - **Web Back-end**
     - Spring Boot
+    - Go
     - Mysql
     
 - **Infra Structure**
