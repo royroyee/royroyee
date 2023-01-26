@@ -23,6 +23,17 @@
     - Go
     - Python
 
+### Learning (2023.01. ~ )
+
+---
+
+- Docker
+- Kubernetes
+- Go
+- gRPC
+- Network
+
+
 ### Awards
 
 ---
