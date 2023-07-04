@@ -1,7 +1,7 @@
 ## 🐳 **Hello! I'm younghwan Kim**
 - Computer Engineering Student at Dankook University 
 - BoanLab Undergraduate Researcher 
-- Interested in BE, Cloud Computing
+- Interested in Infra, Cloud Computing
 
 
 ### 🔍 Interested in
@@ -14,26 +14,19 @@
     - Go
     - Spring Boot
     - Mysql
+    - MongoDB
+    - Django Rest Framework
     
-- **Infra Structure**
+- **Infrastructure**
     - Docker
     - Kubernetes
     - AWS
     
 - **Languages**
     - Go
-    - Java
     - Python
-
-### 📚 Progress
-
----
-
-- Go
-- Linux
-- Network
-- CNI (Kubernetes)
-- Operating System
+    - Java
+    - C
 
 
 ### 🏆 Awards
