@@ -61,11 +61,11 @@
 
 - **2023 Open Source Contribution Academy - Terraform on Naver Cloud Platform** _(2023.07 ~ Present)_
 
-    Contributing to the development of the Terraform Provider for Naver Cloud Platform.
+    Lead Mentee, Contributing to the development of the Terraform Provider for Naver Cloud Platform.
 
 - **Rising Camp 8th Server** _(2022)_
 
-    Worked on web backend development.
+    Outstanding Graduate, Worked on web backend development.
 
 <br>
 
