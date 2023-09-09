@@ -1,79 +1,74 @@
-<h1 align="center">🐳 Hello! I'm Younghwan Kim  </h1>
+<h1 align="center">Younghwan Kim ☁️</h1>
 
 <p align="center">
-  <em>Computer Engineering Student at Dankook University</a> </em><br>
-  <em>Undergraduate Researcher at BoanLab</a> </em><br>
-  <em>Passionate about Infra and Cloud Computing ☁️</em>
+<img src="https://img.shields.io/badge/Aspiring%20Cloud%20Engineer-Passion-brightgreen?style=for-the-badge&logo=appveyor">
 </p>
 
-<br>
+<p align="center">
+  🎓 <strong>Computer Engineering</strong> at Dankook University <br>
+  🛠 <strong>Researcher</strong> at <a href="https://boanlab.com/">BoanLab</a> <br>
+  💡 Driven by <strong>Cloud Computing & Infrastructure</strong>
+</p>
 
-## 🔍 Interested in
+<p align="center">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes">
+<img src="https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white" alt="Terraform">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS">
+<img src="https://img.shields.io/badge/NCP-03C75A?style=flat-square&logo=Naver&logoColor=white" alt="NCP">
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C">
+</p>
 
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![NCP](https://img.shields.io/badge/-NCP-03C75A?style=flat-square&logo=Naver&logoColor=white)
+
+</br>
 
 
-**Web Back-end**
+## 🛠 Skills & Expertise
+- **Cloud & Infrastructure**: Docker, Kubernetes, Terraform, AWS, NCP
+- **Languages**: Go, Python, Java, C
 
-- `Go`
-- `Spring Boot`
-- `Mysql`
-- `MongoDB`
-- `Django Rest Framework`
+</br>
 
-**Infrastructure**
 
-- `Docker`
-- `Kubernetes`
-- `Terraform`
-- `AWS`
-- `NCP`
+## 🚀 Experience
 
-**Languages**
+- **BoanLab, Undergraduate Researcher** (2023 ~ Present)
 
-- `Go`
-- `Python`
-- `Java`
-- `C`
+  Conducting research in the areas of **cloud** and **network** technologies and actively participating in multiple projects in the domain
 
-<br>
+  
+- **Alpaca Networks, Intern** (2023.07 ~ Present)
 
-## 🏆 Awards
+  Designed and participated in the development of key features for the backend and agent components of the **Alpaca Infra Platform**.
 
-- Dankook University, Daou Programming Contest - Silver Prize (2022)
 
-<br>
+- **2023 Open Source Contribution Academy - Terraform on Naver Cloud Platform** (2023.07 ~ 2023.10)
 
-## 🎓 Experience
+  Lead Mentee, Contributing to the development of the **Terraform Provider for Naver Cloud Platform**.
 
-- **BoanLab, Undergraduate Researcher** _(2023 ~ Present)_
 
-    Conducting research in the areas of cloud and network technologies.
+- **Whatever you make** (2023.08 ~ 2023.09)
 
-- **Alpaca Networks, Intern** _(2023.07 ~ Present)_
+  Participating in the developemt of the Today's Menu, focusing on the **infrastructure**
 
-    Participating in the development of the Alpaca Infra Platform, focusing on the backend and agent components.
 
-- **2023 Open Source Contribution Academy - Terraform on Naver Cloud Platform** _(2023.07 ~ Present)_
+- **Rising Camp 8th Server** (2022)
 
-    Lead Mentee, Contributing to the development of the Terraform Provider for Naver Cloud Platform.
+  Outstanding Graduate, Worked on **web backend** development.
 
-- **Rising Camp 8th Server** _(2022)_
 
-    Outstanding Graduate, Worked on web backend development.
+</br>
 
-<br>
 
-## 📈 Most Used Languages
+## 📊 Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=royroyee&langs_count=10&layout=compact)]()
 
-<br>
 
-## 💬 Contact
-yhkim@boanlab.com
+## 📧 Connect
+
+📩 [Email](mailto:yhkim@boanlab.com)
+
