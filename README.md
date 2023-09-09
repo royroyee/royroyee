@@ -10,7 +10,13 @@
   💡 Driven by <strong>Cloud Computing & Infrastructure</strong>
 </p>
 
-<p align="center">
+
+
+</br>
+
+
+## 🛠 Skills & Expertise
+<p>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes">
 <img src="https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white" alt="Terraform">
@@ -22,11 +28,6 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C">
 </p>
 
-
-</br>
-
-
-## 🛠 Skills & Expertise
 - **Cloud & Infrastructure**: Docker, Kubernetes, Terraform, AWS, NCP
 - **Languages**: Go, Python, Java, C
 
