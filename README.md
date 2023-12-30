@@ -1,15 +1,5 @@
-<h1 align="center">Younghwan Kim ☁️</h1>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Aspiring%20Cloud%20Engineer-Passion-brightgreen?style=for-the-badge&logo=appveyor">
-</p>
-
-<p align="center">
-  🎓 <strong>Computer Engineering</strong> at Dankook University <br>
-  🛠 <strong>Researcher</strong> at <a href="https://boanlab.com/">BoanLab</a> <br>
-  💡 Driven by <strong>Cloud Computing & Infrastructure</strong>
-</p>
-
+## About Me
+Developer deeply passionate about **Network**, **Infrastructure** and **Cloud Networking**
 
 
 </br>
@@ -53,7 +43,7 @@
 
 - **Whatever you make** (2023.08 ~ 2023.09)
 
-  Participating in the developemt of the Today's Menu, focusing on the **infrastructure**
+  Participating in the development of the Today's Menu, focusing on the **infrastructure**
 
 
 - **Rising Camp 8th Server** (2022)
@@ -62,11 +52,6 @@
 
 
 </br>
-
-
-## 📊 Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=royroyee&langs_count=10&layout=compact)]()
 
 
 ## 📧 Connect
