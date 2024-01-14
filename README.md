@@ -1,6 +1,7 @@
 ## About Me
 Developer deeply passionate about **Network**, **Infrastructure** and **Cloud Networking**
 
+I'm currently working at Alpaca Networks as a software engineer
 
 </br>
 
@@ -26,14 +27,14 @@ Developer deeply passionate about **Network**, **Infrastructure** and **Cloud Ne
 
 ## 🚀 Experience
 
-- **BoanLab, Undergraduate Researcher** (2023 ~ Present)
+- **Alpaca Networks** | **Software Engineer** (2024.01 ~ Present) | **Intern** (2023.07 ~ 2023.12)
+
+  Contributing to the development of key features in various projects, including the **Alpaca Infra Platform**.
+
+
+- **BoanLab, Undergraduate Researcher** (2023.01 ~ Present)
 
   Conducting research in the areas of **cloud** and **network** technologies and actively participating in multiple projects in the domain
-
-  
-- **Alpaca Networks, Intern** (2023.07 ~ Present)
-
-  Designed and participated in the development of key features for the backend and agent components of the **Alpaca Infra Platform**.
 
 
 - **2023 Open Source Contribution Academy - Terraform on Naver Cloud Platform** (2023.07 ~ 2023.10)
@@ -55,6 +56,6 @@ Developer deeply passionate about **Network**, **Infrastructure** and **Cloud Ne
 
 
 ## 📧 Connect
-
-📩 [Email](mailto:yhkim@boanlab.com)
+- **Email** : yh.kim@alpacanetworks.com
+- **LinkedIn** : https://www.linkedin.com/in/younghwankim-cloud/
 
