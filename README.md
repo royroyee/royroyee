@@ -1,8 +1,8 @@
 ## About Me
 
-Great passion for  **Network**, **Infrastructure** and **Cloud Networking** 
+Great Passion for  **Network**, **Infrastructure** and **Cloud Networking** 
 
-Software enginner @alpacanetworks
+Software Engineer @alpacanetworks
 
 </br>
 
