@@ -1,7 +1,8 @@
 ## About Me
-Developer deeply passionate about **Network**, **Infrastructure** and **Cloud Networking**
 
-I'm currently working at Alpaca Networks as a software engineer
+Great passion for  **Network**, **Infrastructure** and **Cloud Networking** 
+
+Software enginner @alpacanetworks
 
 </br>
 
