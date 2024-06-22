@@ -2,9 +2,9 @@
 
 Great Passion for  **Network**, **Infrastructure** and **Cloud Networking** 
 
-Software Engineer @alpacanetworks
+Software Engineer at [@alpacanetworks](https://github.com/alpacanetworks) (2024.01 ~)
 
-</br>
+💙 Golang, Kubernetes 
 
 
 ## 🛠 Skills & Expertise
@@ -23,9 +23,6 @@ Software Engineer @alpacanetworks
 - **Cloud & Infrastructure**: Docker, Kubernetes, Terraform, AWS, NCP
 - **Languages**: Go, Python, Java, C
 
-</br>
-
-
 ## 🚀 Experience
 
 - **Alpaca Networks** | **Software Engineer** (2024.01 ~ Present) | **Intern** (2023.07 ~ 2023.12)
@@ -33,27 +30,28 @@ Software Engineer @alpacanetworks
   Contributing to the development of key features in various projects, including the **Alpaca Infra Platform**.
 
 
-- **BoanLab, Undergraduate Researcher** (2023.01 ~ Present)
+- **BoanLab, Undergraduate Researcher**
 
-  Conducting research in the areas of **cloud** and **network** technologies and actively participating in multiple projects in the domain
+  Conducting research in the areas of **cloud** and **network** technologies and actively participating in multiple projects in the domain.
 
 
-- **2023 Open Source Contribution Academy - Terraform on Naver Cloud Platform** (2023.07 ~ 2023.10)
+- **2023 Open Source Contribution Academy- Terraform on Naver Cloud Platform**
 
   Lead Mentee, Contributing to the development of the **Terraform Provider for Naver Cloud Platform**.
 
 
-- **Whatever you make** (2023.08 ~ 2023.09)
+- **Whatever you make**
 
-  Participating in the development of the Today's Menu, focusing on the **infrastructure**
+  Participating in the development of the Today's Menu, focusing on the **infrastructure**.
 
 
-- **Rising Camp 8th Server** (2022)
+- **Rising Camp 8th Server**
 
   Outstanding Graduate, Worked on **web backend** development.
+  
 
-
-</br>
+## 🎖 Certificates
+- [CKA: Certified Kubernetes Administrator](https://www.credly.com/badges/935b70b6-0306-4472-9821-8d89cdd80dd1/public_url)
 
 
 ## 📧 Connect
