@@ -2,7 +2,7 @@
 
 Great Passion for  **Network**, **Infrastructure** and **Cloud Networking** 
 
-Software Engineer at [@alpacanetworks](https://github.com/alpacanetworks) (2024.01 ~)
+Software Engineer at [@alpacanetworks](https://github.com/alpacanetworks) (2024.03 ~)
 
 💙 Golang, Kubernetes 
 
@@ -25,7 +25,7 @@ Software Engineer at [@alpacanetworks](https://github.com/alpacanetworks) (2024.
 
 ## 🚀 Experience
 
-- **Alpaca Networks** | **Software Engineer** (2024.01 ~ Present) | **Intern** (2023.07 ~ 2023.12)
+- **Alpaca Networks** | **Software Engineer** (2024.03 ~ Present) | **Intern** (2023.07 ~ 2023.12)
 
   Contributing to the development of key features in various projects, including the **Alpaca Infra Platform**.
 
@@ -55,6 +55,6 @@ Software Engineer at [@alpacanetworks](https://github.com/alpacanetworks) (2024.
 
 
 ## 📧 Connect
-- **Email** : yh.kim@alpacanetworks.com
+- **Email** : yh.kim@alpacax.com
 - **LinkedIn** : https://www.linkedin.com/in/younghwankim-cloud/
 
