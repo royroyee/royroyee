@@ -1,6 +1,6 @@
 ## About Me
 
-Great Passion for  **Network**, **Infrastructure** and **Cloud Networking** 
+Passionate about network technologies, infrastructure, and cloud networking
 
 Software Engineer at [@alpacanetworks](https://github.com/alpacanetworks) (2024.03 ~)
 
@@ -27,7 +27,7 @@ Software Engineer at [@alpacanetworks](https://github.com/alpacanetworks) (2024.
 
 - **Alpaca Networks** | **Software Engineer** (2024.03 ~ Present) | **Intern** (2023.07 ~ 2023.12)
 
-  Contributing to the development of key features in various projects, including the **Alpaca Infra Platform**.
+  Developed and managed infrastructure and various software components for the **Alpaca Infra Platform**, including backend services, CLI tools, and system agents
 
 
 - **BoanLab, Undergraduate Researcher**
