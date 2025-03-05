@@ -21,23 +21,23 @@ Software Engineer at [@alpacanetworks](https://github.com/alpacanetworks) (2024.
 </p>
 
 - **Cloud & Infrastructure**: Docker, Kubernetes, Terraform, AWS, NCP
-- **Languages**: Go, Python, Java, C
+- **Languages**: Go, Python
 
 ## 🚀 Experience
 
-- **Alpaca Networks** | **Software Engineer** (2024.03 ~ Present) | **Intern** (2023.07 ~ 2023.12)
+- **AlpacaX** | **Software Engineer** (2024.03 ~ Present) | **Intern** (2023.07 ~ 2023.12)
 
-  Developed and managed infrastructure and various software components for the **Alpaca Infra Platform**, including backend services, CLI tools, and system agents
+  Leading end-to-end DevOps operations for **Alpacon**, developing and managing backend services, CLI tools, and system agents.
 
 
 - **BoanLab, Undergraduate Researcher**
 
-  Conducting research in the areas of **cloud** and **network** technologies and actively participating in multiple projects in the domain.
+  Conducted research on **cloud** and **network** technologies and actively participated in multiple projects in the domain.
 
 
 - **2023 Open Source Contribution Academy- Terraform on Naver Cloud Platform**
 
-  Lead Mentee, Contributing to the development of the **Terraform Provider for Naver Cloud Platform**.
+  Selected as Lead Mentee, contributing to the development of the **Terraform Provider for Naver Cloud Platform**.
 
 
 - **Whatever you make**
@@ -52,9 +52,10 @@ Software Engineer at [@alpacanetworks](https://github.com/alpacanetworks) (2024.
 
 ## 🎖 Certificates
 - [CKA: Certified Kubernetes Administrator](https://www.credly.com/badges/935b70b6-0306-4472-9821-8d89cdd80dd1/public_url)
+- [SAA: AWS Certified Solutions Architect – Associate](https://www.credly.com/earner/earned/badge/42746a59-586e-46ea-85e0-9dd5c8d6c200)
 
 
 ## 📧 Connect
-- **Email** : yh.kim@alpacax.com
+- **Email** : kim131325@gmail.com
 - **LinkedIn** : https://www.linkedin.com/in/younghwankim-cloud/
 
