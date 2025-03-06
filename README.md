@@ -2,7 +2,7 @@
 
 Passionate about network technologies, infrastructure, and cloud networking
 
-Software Engineer at [@alpacanetworks](https://github.com/alpacanetworks) (2024.03 ~)
+Software Engineer at [@AlpacaX](https://www.alpacax.com/) (2024.03 ~)
 
 💙 Golang, Kubernetes 
 
@@ -52,7 +52,7 @@ Software Engineer at [@alpacanetworks](https://github.com/alpacanetworks) (2024.
 
 ## 🎖 Certificates
 - [CKA: Certified Kubernetes Administrator](https://www.credly.com/badges/935b70b6-0306-4472-9821-8d89cdd80dd1/public_url)
-- [SAA: AWS Certified Solutions Architect – Associate](https://www.credly.com/earner/earned/badge/42746a59-586e-46ea-85e0-9dd5c8d6c200)
+- [SAA: AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/42746a59-586e-46ea-85e0-9dd5c8d6c200/public_url)
 
 
 ## 📧 Connect
