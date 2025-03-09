@@ -25,7 +25,7 @@ Software Engineer at [@AlpacaX](https://www.alpacax.com/) (2024.03 ~)
 
 ## 🚀 Experience
 
-- **AlpacaX** | **Software Engineer** (2024.03 ~ Present) | **Intern** (2023.07 ~ 2023.12)
+- **AlpacaX** | **Software Engineer** (2024.03 ~ Present) | **Intern** (2023.07 ~ 2024.02)
 
   Leading end-to-end DevOps operations for **Alpacon**, developing and managing backend services, CLI tools, and system agents.
 
