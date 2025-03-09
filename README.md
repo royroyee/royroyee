@@ -42,12 +42,12 @@ Software Engineer at [@AlpacaX](https://www.alpacax.com/) (2024.03 ~)
 
 - **Whatever you make**
 
-  Participating in the development of the Today's Menu, focusing on the **infrastructure**.
+  Contributed to the development of the Today's Menu, focusing on **infrastructure**.
 
 
 - **Rising Camp 8th Server**
 
-  Outstanding Graduate, Worked on **web backend** development.
+  Completed the Web Backend course as an Excellent Graduate.
   
 
 ## 🎖 Certificates
