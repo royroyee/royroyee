@@ -16,9 +16,6 @@ Software Engineer at [@AlpacaX](https://www.alpacax.com/) (2024.03 ~)
 <img src="https://img.shields.io/badge/NCP-03C75A?style=flat-square&logo=Naver&logoColor=white" alt="NCP">
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C">
-</p>
 
 - **Cloud & Infrastructure**: Docker, Kubernetes, Terraform, AWS, NCP
 - **Languages**: Go, Python
